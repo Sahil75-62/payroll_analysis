@@ -2,8 +2,7 @@
 
 An end-to-end machine learning workflow in Python that cleans the **MTA Employee Payroll: Beginning 2025** open dataset, explores it visually, predicts employee **Total Earnings** with four regression models, and segments employees with **K-means clustering**.
 
-**Author:** Sahil Koundal – Computer Science and Engineering, Lovely Professional University, Jalandhar, India
-**Contact:** sahilkoundal756@gmail.com
+
 
 ---
 
